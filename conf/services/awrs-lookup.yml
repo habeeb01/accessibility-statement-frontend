@@ -1,0 +1,11 @@
+serviceName: AWRS Lookup
+serviceHeaderName: Check if an alcohol wholesaler or producer is approved
+serviceDescription: |
+  This service allows users to check the if a business is registered on the Alcohol Wholesaler Registration Scheme
+serviceDomain: www.tax.service.gov.uk
+serviceUrl: /check-the-awrs-register
+contactFrontendServiceId: AWRS-LOOKUP
+complianceStatus: noncompliant
+statementVisibility: public
+statementCreatedDate: 2020-09-14
+statementLastUpdatedDate: 2020-09-14
